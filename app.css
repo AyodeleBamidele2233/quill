@@ -110,6 +110,10 @@ font-size: 12px;
    color: #339af0;
 }
 
+.btn-primary:hover, .btn-primary:active{
+   color: #1c7ed6;
+}
+
 .btn-secondary{
    color: #9775fa;
 
