@@ -37,6 +37,13 @@ Shade: #212529 (Graphite)
 
 */
 
+
+/* ==========================================================================
+   TYPOGRAPHY SYSTEM
+   Learned how to use type selectors for global heading styles (h1–h5).
+   Fonts: Poppins | Weights: 400 & 700 | Letter spacing: -2px
+========================================================================== */
+
  h1, h2, h3, h4, h5 {
 font-weight: 700;
 letter-spacing: -2px;
