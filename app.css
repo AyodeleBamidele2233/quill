@@ -114,7 +114,10 @@ font-size: 12px;
    color: #1c7ed6;
 }
 
-.btn-secondary{
+.btn-secondary:link, .btn-secondary:visited{
    color: #9775fa;
+}
 
+.btn-secondary:hover, .btn-secondary:active{
+   color: #7048e8;
 }
